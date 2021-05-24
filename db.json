@@ -1,153 +1,151 @@
 {
-    "prakarsa": [
+    "prakarsa": {
+        "status": 200,
+        "message": "Get Propinsi Sukses",
+        "desc": "Get Propinsi Sukses",
+        "data": [
         {
-            "status": 200,
-            "message": "Get Propinsi Sukses",
-            "desc": "Get Propinsi Sukses",
-            "data": [
+            "namaNasabah": "Andi",
+            "kyd": 211825741,
+            "kolektabilitas1": 0.2,
+            "kolektabilitas2": 0.5,
+            "npl": 0.2
+            },
             {
-                "namaNasabah": "Andi",
-                "kyd": 211825741,
-                "kolektabilitas1": 0.2,
-                "kolektabilitas2": 0.5,
-                "npl": 0.2
-                },
-                {
-                "namaNasabah": "Tomaso",
-                "kyd": 654193514,
-                "kolektabilitas1": 0.3,
-                "kolektabilitas2": 0.3,
-                "npl": 0.3
-                },
-                {
-                "namaNasabah": "Kelbee",
-                "kyd": 427320238,
-                "kolektabilitas1": 0.9,
-                "kolektabilitas2": 0.5,
-                "npl": 0.2
-                },
-                {
-                "namaNasabah": "Arri",
-                "kyd": 819902136,
-                "kolektabilitas1": 0.8,
-                "kolektabilitas2": 0.8,
-                "npl": 0.5
-                },
-                {
-                "namaNasabah": "Aigneis",
-                "kyd": 230177793,
-                "kolektabilitas1": 0.5,
-                "kolektabilitas2": 1.0,
-                "npl": 0.7
-                },
-                {
-                "namaNasabah": "Tannie",
-                "kyd": 643677313,
-                "kolektabilitas1": 0.8,
-                "kolektabilitas2": 0.9,
-                "npl": 0.2
-                },
-                {
-                "namaNasabah": "Adelle",
-                "kyd": 807060252,
-                "kolektabilitas1": 1.0,
-                "kolektabilitas2": 0.3,
-                "npl": 0.3
-                },
-                {
-                "namaNasabah": "Noam",
-                "kyd": 673031905,
-                "kolektabilitas1": 0.5,
-                "kolektabilitas2": 0.3,
-                "npl": 0.6
-                },
-                {
-                "namaNasabah": "Kelci",
-                "kyd": 619275155,
-                "kolektabilitas1": 0.7,
-                "kolektabilitas2": 0.6,
-                "npl": 0.3
-                },
-                {
-                "namaNasabah": "Yancey",
-                "kyd": 584294499,
-                "kolektabilitas1": 0.7,
-                "kolektabilitas2": 0.9,
-                "npl": 0.2
-                },
-                {
-                "namaNasabah": "Sven",
-                "kyd": 157490699,
-                "kolektabilitas1": 0.5,
-                "kolektabilitas2": 0.6,
-                "npl": 1.0
-                },
-                {
-                "namaNasabah": "Anne",
-                "kyd": 996930742,
-                "kolektabilitas1": 0.1,
-                "kolektabilitas2": 0.4,
-                "npl": 0.8
-                },
-                {
-                "namaNasabah": "Maribeth",
-                "kyd": 982557531,
-                "kolektabilitas1": 0.6,
-                "kolektabilitas2": 0.8,
-                "npl": 0.2
-                },
-                {
-                "namaNasabah": "Tabina",
-                "kyd": 385640689,
-                "kolektabilitas1": 0.5,
-                "kolektabilitas2": 0.7,
-                "npl": 0.5
-                },
-                {
-                "namaNasabah": "Cecilio",
-                "kyd": 365300428,
-                "kolektabilitas1": 0.1,
-                "kolektabilitas2": 0.8,
-                "npl": 1.0
-                },
-                {
-                "namaNasabah": "Sarajane",
-                "kyd": 213554865,
-                "kolektabilitas1": 0.4,
-                "kolektabilitas2": 0.2,
-                "npl": 0.9
-                },
-                {
-                "namaNasabah": "Shaine",
-                "kyd": 642257117,
-                "kolektabilitas1": 0.2,
-                "kolektabilitas2": 0.5,
-                "npl": 1.0
-                },
-                {
-                "namaNasabah": "Lauren",
-                "kyd": 373924830,
-                "kolektabilitas1": 0.8,
-                "kolektabilitas2": 0.4,
-                "npl": 0.3
-                },
-                {
-                "namaNasabah": "Guthry",
-                "kyd": 812372439,
-                "kolektabilitas1": 0.4,
-                "kolektabilitas2": 0.3,
-                "npl": 0.7
-                },
-                {
-                "namaNasabah": "Bobbe",
-                "kyd": 346966177,
-                "kolektabilitas1": 0.8,
-                "kolektabilitas2": 0.6,
-                "npl": 0.6
-                }
-            ]
-        }
-    ],
+            "namaNasabah": "Tomaso",
+            "kyd": 654193514,
+            "kolektabilitas1": 0.3,
+            "kolektabilitas2": 0.3,
+            "npl": 0.3
+            },
+            {
+            "namaNasabah": "Kelbee",
+            "kyd": 427320238,
+            "kolektabilitas1": 0.9,
+            "kolektabilitas2": 0.5,
+            "npl": 0.2
+            },
+            {
+            "namaNasabah": "Arri",
+            "kyd": 819902136,
+            "kolektabilitas1": 0.8,
+            "kolektabilitas2": 0.8,
+            "npl": 0.5
+            },
+            {
+            "namaNasabah": "Aigneis",
+            "kyd": 230177793,
+            "kolektabilitas1": 0.5,
+            "kolektabilitas2": 1.0,
+            "npl": 0.7
+            },
+            {
+            "namaNasabah": "Tannie",
+            "kyd": 643677313,
+            "kolektabilitas1": 0.8,
+            "kolektabilitas2": 0.9,
+            "npl": 0.2
+            },
+            {
+            "namaNasabah": "Adelle",
+            "kyd": 807060252,
+            "kolektabilitas1": 1.0,
+            "kolektabilitas2": 0.3,
+            "npl": 0.3
+            },
+            {
+            "namaNasabah": "Noam",
+            "kyd": 673031905,
+            "kolektabilitas1": 0.5,
+            "kolektabilitas2": 0.3,
+            "npl": 0.6
+            },
+            {
+            "namaNasabah": "Kelci",
+            "kyd": 619275155,
+            "kolektabilitas1": 0.7,
+            "kolektabilitas2": 0.6,
+            "npl": 0.3
+            },
+            {
+            "namaNasabah": "Yancey",
+            "kyd": 584294499,
+            "kolektabilitas1": 0.7,
+            "kolektabilitas2": 0.9,
+            "npl": 0.2
+            },
+            {
+            "namaNasabah": "Sven",
+            "kyd": 157490699,
+            "kolektabilitas1": 0.5,
+            "kolektabilitas2": 0.6,
+            "npl": 1.0
+            },
+            {
+            "namaNasabah": "Anne",
+            "kyd": 996930742,
+            "kolektabilitas1": 0.1,
+            "kolektabilitas2": 0.4,
+            "npl": 0.8
+            },
+            {
+            "namaNasabah": "Maribeth",
+            "kyd": 982557531,
+            "kolektabilitas1": 0.6,
+            "kolektabilitas2": 0.8,
+            "npl": 0.2
+            },
+            {
+            "namaNasabah": "Tabina",
+            "kyd": 385640689,
+            "kolektabilitas1": 0.5,
+            "kolektabilitas2": 0.7,
+            "npl": 0.5
+            },
+            {
+            "namaNasabah": "Cecilio",
+            "kyd": 365300428,
+            "kolektabilitas1": 0.1,
+            "kolektabilitas2": 0.8,
+            "npl": 1.0
+            },
+            {
+            "namaNasabah": "Sarajane",
+            "kyd": 213554865,
+            "kolektabilitas1": 0.4,
+            "kolektabilitas2": 0.2,
+            "npl": 0.9
+            },
+            {
+            "namaNasabah": "Shaine",
+            "kyd": 642257117,
+            "kolektabilitas1": 0.2,
+            "kolektabilitas2": 0.5,
+            "npl": 1.0
+            },
+            {
+            "namaNasabah": "Lauren",
+            "kyd": 373924830,
+            "kolektabilitas1": 0.8,
+            "kolektabilitas2": 0.4,
+            "npl": 0.3
+            },
+            {
+            "namaNasabah": "Guthry",
+            "kyd": 812372439,
+            "kolektabilitas1": 0.4,
+            "kolektabilitas2": 0.3,
+            "npl": 0.7
+            },
+            {
+            "namaNasabah": "Bobbe",
+            "kyd": 346966177,
+            "kolektabilitas1": 0.8,
+            "kolektabilitas2": 0.6,
+            "npl": 0.6
+            }
+        ]
+    },
     "user": {
         "status": 200,
         "message": "Login berhasil",
