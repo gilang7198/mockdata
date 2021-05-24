@@ -4,75 +4,75 @@
         "message": "Get Propinsi Sukses",
         "desc": "Get Propinsi Sukses",
         "data": [
-        {
-            "namaNasabah": "Andi",
-            "kyd": 211825741,
-            "kolektabilitas1": 0.2,
-            "kolektabilitas2": 0.5,
-            "npl": 0.2
+            {
+                "namaNasabah": "Andi",
+                "kyd": 211825741,
+                "kolektabilitas1": 0.2,
+                "kolektabilitas2": 0.5,
+                "npl": 0.2
             },
             {
-            "namaNasabah": "Tomaso",
-            "kyd": 654193514,
-            "kolektabilitas1": 0.3,
-            "kolektabilitas2": 0.3,
-            "npl": 0.3
+                "namaNasabah": "Tomaso",
+                "kyd": 654193514,
+                "kolektabilitas1": 0.3,
+                "kolektabilitas2": 0.3,
+                "npl": 0.3
             },
             {
-            "namaNasabah": "Kelbee",
-            "kyd": 427320238,
-            "kolektabilitas1": 0.9,
-            "kolektabilitas2": 0.5,
-            "npl": 0.2
+                "namaNasabah": "Kelbee",
+                "kyd": 427320238,
+                "kolektabilitas1": 0.9,
+                "kolektabilitas2": 0.5,
+                "npl": 0.2
             },
             {
-            "namaNasabah": "Arri",
-            "kyd": 819902136,
-            "kolektabilitas1": 0.8,
-            "kolektabilitas2": 0.8,
-            "npl": 0.5
+                "namaNasabah": "Arri",
+                "kyd": 819902136,
+                "kolektabilitas1": 0.8,
+                "kolektabilitas2": 0.8,
+                "npl": 0.5
             },
             {
-            "namaNasabah": "Aigneis",
-            "kyd": 230177793,
-            "kolektabilitas1": 0.5,
-            "kolektabilitas2": 1.0,
-            "npl": 0.7
+                "namaNasabah": "Aigneis",
+                "kyd": 230177793,
+                "kolektabilitas1": 0.5,
+                "kolektabilitas2": 1.0,
+                "npl": 0.7
             },
             {
-            "namaNasabah": "Tannie",
-            "kyd": 643677313,
-            "kolektabilitas1": 0.8,
-            "kolektabilitas2": 0.9,
-            "npl": 0.2
+                "namaNasabah": "Tannie",
+                "kyd": 643677313,
+                "kolektabilitas1": 0.8,
+                "kolektabilitas2": 0.9,
+                "npl": 0.2
             },
             {
-            "namaNasabah": "Adelle",
-            "kyd": 807060252,
-            "kolektabilitas1": 1.0,
-            "kolektabilitas2": 0.3,
-            "npl": 0.3
+                "namaNasabah": "Adelle",
+                "kyd": 807060252,
+                "kolektabilitas1": 1.0,
+                "kolektabilitas2": 0.3,
+                "npl": 0.3
             },
             {
-            "namaNasabah": "Noam",
-            "kyd": 673031905,
-            "kolektabilitas1": 0.5,
-            "kolektabilitas2": 0.3,
-            "npl": 0.6
+                "namaNasabah": "Noam",
+                "kyd": 673031905,
+                "kolektabilitas1": 0.5,
+                "kolektabilitas2": 0.3,
+                "npl": 0.6
             },
             {
-            "namaNasabah": "Kelci",
-            "kyd": 619275155,
-            "kolektabilitas1": 0.7,
-            "kolektabilitas2": 0.6,
-            "npl": 0.3
+                "namaNasabah": "Kelci",
+                "kyd": 619275155,
+                "kolektabilitas1": 0.7,
+                "kolektabilitas2": 0.6,
+                "npl": 0.3
             },
             {
-            "namaNasabah": "Yancey",
-            "kyd": 584294499,
-            "kolektabilitas1": 0.7,
-            "kolektabilitas2": 0.9,
-            "npl": 0.2
+                "namaNasabah": "Yancey",
+                "kyd": 584294499,
+                "kolektabilitas1": 0.7,
+                "kolektabilitas2": 0.9,
+                "npl": 0.2
             }
         ]
     },
@@ -91,5 +91,127 @@
             "accessLevel": "10",
             "foto": ""
         }
-    }
+    },
+    "salesforce": [
+        {
+            "id": 6,
+            "first_name": "Amalita",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Didi",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Page",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Wood",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Yuri",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Therese",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Clary",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Iver",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Elvina",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Agnese",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Shannen",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Daria",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Early",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Jo",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Andonis",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Emera",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Doti",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Perceval",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Waiter",
+            "pencapaian": 3,
+            "target": 3
+        },
+        {
+            "id": 6,
+            "first_name": "Nealy",
+            "pencapaian": 3,
+            "target": 3
+        }
+    ]
 }
