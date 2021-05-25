@@ -98,144 +98,144 @@
         "desc": "Get Propinsi Sukses",
         "data": [
             {
-                "id": 1,
-                "namaSalesforce": "Belle",
+                "id": 882417,
+                "namaSalesforce": "Eloise",
                 "image": 1,
-                "pencapaian": 364,
-                "target": 474
+                "pencapaian": 378,
+                "target": 425
             },
             {
-                "id": 2,
-                "namaSalesforce": "Jakie",
+                "id": 882361,
+                "namaSalesforce": "Alphard",
                 "image": 2,
-                "pencapaian": 381,
-                "target": 416
+                "pencapaian": 323,
+                "target": 446
             },
             {
-                "id": 3,
-                "namaSalesforce": "Raoul",
+                "id": 882357,
+                "namaSalesforce": "Sven",
                 "image": 3,
-                "pencapaian": 340,
-                "target": 413
+                "pencapaian": 306,
+                "target": 459
             },
             {
-                "id": 4,
-                "namaSalesforce": "Horton",
+                "id": 882426,
+                "namaSalesforce": "Roldan",
                 "image": 4,
-                "pencapaian": 375,
-                "target": 421
+                "pencapaian": 398,
+                "target": 454
             },
             {
-                "id": 5,
-                "namaSalesforce": "Herbie",
+                "id": 882396,
+                "namaSalesforce": "Cathryn",
                 "image": 5,
-                "pencapaian": 332,
-                "target": 418
+                "pencapaian": 331,
+                "target": 496
             },
             {
-                "id": 6,
-                "namaSalesforce": "Delmer",
+                "id": 882428,
+                "namaSalesforce": "Hubey",
                 "image": 6,
-                "pencapaian": 382,
+                "pencapaian": 351,
+                "target": 455
+            },
+            {
+                "id": 882385,
+                "namaSalesforce": "Patsy",
+                "image": 7,
+                "pencapaian": 341,
+                "target": 447
+            },
+            {
+                "id": 882393,
+                "namaSalesforce": "Mellicent",
+                "image": 8,
+                "pencapaian": 376,
+                "target": 419
+            },
+            {
+                "id": 882418,
+                "namaSalesforce": "Nanon",
+                "image": 9,
+                "pencapaian": 320,
+                "target": 457
+            },
+            {
+                "id": 882474,
+                "namaSalesforce": "Martino",
+                "image": 10,
+                "pencapaian": 311,
+                "target": 454
+            },
+            {
+                "id": 882488,
+                "namaSalesforce": "Anallise",
+                "image": 11,
+                "pencapaian": 330,
+                "target": 481
+            },
+            {
+                "id": 882418,
+                "namaSalesforce": "Barton",
+                "image": 12,
+                "pencapaian": 390,
                 "target": 472
             },
             {
-                "id": 7,
-                "namaSalesforce": "Boniface",
-                "image": 7,
-                "pencapaian": 379,
-                "target": 435
-            },
-            {
-                "id": 8,
-                "namaSalesforce": "Garner",
-                "image": 8,
-                "pencapaian": 379,
-                "target": 426
-            },
-            {
-                "id": 9,
-                "namaSalesforce": "Cele",
-                "image": 9,
-                "pencapaian": 370,
-                "target": 441
-            },
-            {
-                "id": 10,
-                "namaSalesforce": "Pat",
-                "image": 10,
-                "pencapaian": 372,
-                "target": 489
-            },
-            {
-                "id": 11,
-                "namaSalesforce": "Gillian",
-                "image": 11,
-                "pencapaian": 320,
-                "target": 428
-            },
-            {
-                "id": 12,
-                "namaSalesforce": "Angelico",
-                "image": 12,
-                "pencapaian": 324,
-                "target": 411
-            },
-            {
-                "id": 13,
-                "namaSalesforce": "Brody",
+                "id": 882392,
+                "namaSalesforce": "Eal",
                 "image": 13,
-                "pencapaian": 323,
-                "target": 433
+                "pencapaian": 349,
+                "target": 406
             },
             {
-                "id": 14,
-                "namaSalesforce": "Melva",
+                "id": 882456,
+                "namaSalesforce": "Rosalyn",
                 "image": 14,
-                "pencapaian": 386,
-                "target": 416
+                "pencapaian": 370,
+                "target": 490
             },
             {
-                "id": 15,
-                "namaSalesforce": "Clayborne",
+                "id": 882352,
+                "namaSalesforce": "Tome",
                 "image": 15,
                 "pencapaian": 321,
-                "target": 477
+                "target": 496
             },
             {
-                "id": 16,
-                "namaSalesforce": "Emanuel",
+                "id": 882360,
+                "namaSalesforce": "Roger",
                 "image": 16,
-                "pencapaian": 317,
+                "pencapaian": 387,
+                "target": 446
+            },
+            {
+                "id": 882487,
+                "namaSalesforce": "Gene",
+                "image": 17,
+                "pencapaian": 363,
                 "target": 491
             },
             {
-                "id": 17,
-                "namaSalesforce": "Melessa",
-                "image": 17,
-                "pencapaian": 323,
-                "target": 478
-            },
-            {
-                "id": 18,
-                "namaSalesforce": "Jeffy",
+                "id": 882452,
+                "namaSalesforce": "Lenore",
                 "image": 18,
-                "pencapaian": 357,
-                "target": 497
+                "pencapaian": 359,
+                "target": 451
             },
             {
-                "id": 19,
-                "namaSalesforce": "Ky",
+                "id": 882485,
+                "namaSalesforce": "Jard",
                 "image": 19,
-                "pencapaian": 319,
-                "target": 416
+                "pencapaian": 301,
+                "target": 490
             },
             {
-                "id": 20,
-                "namaSalesforce": "Wilek",
+                "id": 882447,
+                "namaSalesforce": "Barnabas",
                 "image": 20,
-                "pencapaian": 358,
-                "target": 476
+                "pencapaian": 340,
+                "target": 500
             }
         ]
     }
