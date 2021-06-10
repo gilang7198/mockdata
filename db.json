@@ -238,5 +238,53 @@
                 "target": 500
             }
         ]
+    },
+    "detailPrakarsa": {
+        "data": {
+            "dataUsaha": {
+                "informasiDatDiri": {
+                    "ktpNumber": "3175091506730016",
+                    "name": "adi rinaldi navaro",
+                    "birthDate": "1973-06-15",
+                    "maritalStatus": "Belum Kawin",
+                    "motherMaidenName": "Nurmala",
+                    "latitude": "-6.7520041",
+                    "longitude": "106.8014178",
+                    "alamat": "Jl. Paguyuban No 4, Kalibata, Pancoran, Jakarta Selatan, 12203",
+                    "provinsi": "DKI Jakarta",
+                    "kota": "Jakarta Barat",
+                    "kecamatan": "Grogol Petamburan",
+                    "kelurahan": "Grogol",
+                    "noRt": "001",
+                    "noRw": "001",
+                    "postalCode": "10520",
+                    "mobileNumber": "081766253554",
+                    "partnerName": "",
+                    "fotoEKtpNasabah": "prakarsa/ktp/2021/6/2/IMG_20210602141900.jpg",
+                    "fotoSelfie": "prakarsa/ktp/2021/6/2/IMG_20210602141900.jpg",
+                    "fotoEKtpPasangan": "prakarsa/ktp/2021/6/2/IMG_20210602141900.jpg"
+                },
+                "informasiUsahaNasabah": {
+                    "economicSectorName": "Pertanian",
+                    "subEconomicSectorName": "Pertanian Sawi",
+                    "jenisUsaha": "Perkebunan",
+                    "alamatUsaha": "Jl. Paguyuban No 4, Kalibata, Pancoran, Jakarta Selatan, 12203",
+                    "latitude": "-6.7520041",
+                    "longitude": "106.8014178",
+                    "provinsi": "DKI Jakarta",
+                    "kota": "Jakarta Barat",
+                    "kecamatan": "Grogol Petamburan",
+                    "kelurahan": "Grogol",
+                    "noRt": "001",
+                    "noRw": "001",
+                    "postalCode": "10520",
+                    "waktuTempuh": "2 Jam",
+                    "partnershipName": "TaniHub"
+                }
+            }
+        },
+        "desc": "Data Valid",
+        "message": "Data ditemukan",
+        "status": 200
     }
 }
